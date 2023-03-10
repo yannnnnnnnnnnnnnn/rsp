@@ -1,0 +1,35 @@
+.container{
+    text-align: center;
+    margin: auto;  
+}
+.container h1{
+    font-size: 90px;
+    margin-top: 55px;
+    margin-bottom: 55px;
+}
+.container p{
+    font-size: 24px;
+}
+.container .col-md-6.col1{
+    float: left;  
+}
+
+.container .col-md-6.col2{
+    float: right;  
+}
+.container .click-me{
+    margin-top: 489px;
+}
+
+.container .click-me button{
+    color: #ffffff;
+    background-color: black;
+    font-size: 15px;   
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.container .click-me button:hover{
+    background-color:#3b3c3d;
+    color: black;
+}
